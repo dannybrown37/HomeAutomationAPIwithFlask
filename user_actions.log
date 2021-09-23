@@ -1,0 +1,56 @@
+2021-09-23 14:54:28.718896 | Viewed home systems.
+2021-09-23 14:54:28.725268 | Failed to create duplicate fixture 'kitchen'
+2021-09-23 14:54:28.731564 | Failed to create duplicate fixture 'bathroom'
+2021-09-23 14:54:28.731564 | Added fixture 'bathroom'
+2021-09-23 14:54:28.738558 | Failed to create duplicate fixture 'office'
+2021-09-23 14:54:28.744538 | Failed to interact with non-existent fixture 'office'
+2021-09-23 14:54:28.745540 | Viewed fixture 'office'
+2021-09-23 14:54:28.749546 | Viewed all fixtures
+2021-09-23 14:54:28.756542 | Failed to interact with non-existent fixture 'kitchen'
+2021-09-23 14:54:28.756542 | Toggled fixture 'kitchen' to 'on'
+2021-09-23 14:54:28.762538 | Failed to create duplicate fixture 'bedroom'
+2021-09-23 14:54:28.769313 | Failed to interact with non-existent fixture 'studio'
+2021-09-23 14:54:28.776305 | Viewed home systems.
+2021-09-23 14:54:28.783288 | Failed to interact with non-existent fixture 'bathroom'
+2021-09-23 14:54:28.783288 | Deleted fixture bathroom
+2021-09-23 14:54:28.790301 | Failed to interact with non-existent fixture 'studio'
+2021-09-23 14:54:28.796279 | Viewed home systems.
+2021-09-23 14:54:28.803289 | Failed to interact with non-existent fixture 'kitchen'
+2021-09-23 14:54:28.804288 | Toggled fixture 'kitchen' to 'off'
+2021-09-23 14:54:28.810271 | Viewed thermostat readings.
+2021-09-23 14:54:28.816268 | Turned thermostat 'on'
+2021-09-23 14:54:28.817268 | Set temp_setting to '69'
+2021-09-23 14:54:28.823278 | Set temp_setting to '71'
+2021-09-23 14:54:28.829274 | Sent invalid param '81' to 'temp_setting'
+2021-09-23 14:54:28.836268 | Sent invalid param 'onff' to 'status'
+2021-09-23 14:54:28.842252 | Viewed thermostat readings.
+2021-09-23 14:58:03.432846 | Viewed home systems.
+2021-09-23 14:58:03.437887 | Failed to create duplicate fixture 'kitchen'
+2021-09-23 14:58:03.438888 | Added fixture 'kitchen'
+2021-09-23 14:58:03.445884 | Failed to create duplicate fixture 'bathroom'
+2021-09-23 14:58:03.445884 | Added fixture 'bathroom'
+2021-09-23 14:58:03.451899 | Failed to create duplicate fixture 'office'
+2021-09-23 14:58:03.452894 | Added fixture 'office'
+2021-09-23 14:58:03.457877 | Failed to interact with non-existent fixture 'office'
+2021-09-23 14:58:03.458895 | Viewed fixture 'office'
+2021-09-23 14:58:03.463877 | Viewed all fixtures
+2021-09-23 14:58:03.469895 | Failed to interact with non-existent fixture 'kitchen'
+2021-09-23 14:58:03.470894 | Toggled fixture 'kitchen' to 'on'
+2021-09-23 14:58:03.475907 | Failed to create duplicate fixture 'bedroom'
+2021-09-23 14:58:03.476889 | Added fixture 'bedroom'
+2021-09-23 14:58:03.477888 | --> defaulted 'bedroom' to 'on'
+2021-09-23 14:58:03.483897 | Failed to interact with non-existent fixture 'studio'
+2021-09-23 14:58:03.489271 | Viewed home systems.
+2021-09-23 14:58:03.497254 | Failed to interact with non-existent fixture 'bathroom'
+2021-09-23 14:58:03.497935 | Deleted fixture bathroom
+2021-09-23 14:58:03.503947 | Failed to interact with non-existent fixture 'studio'
+2021-09-23 14:58:03.509461 | Viewed home systems.
+2021-09-23 14:58:03.517472 | Failed to interact with non-existent fixture 'kitchen'
+2021-09-23 14:58:03.517472 | Toggled fixture 'kitchen' to 'off'
+2021-09-23 14:58:03.523726 | Viewed thermostat readings.
+2021-09-23 14:58:03.529722 | Turned thermostat 'on'
+2021-09-23 14:58:03.530737 | Set temp_setting to '69'
+2021-09-23 14:58:03.536739 | Set temp_setting to '71'
+2021-09-23 14:58:03.543754 | Sent invalid param '81' to 'temp_setting'
+2021-09-23 14:58:03.550745 | Sent invalid param 'onff' to 'status'
+2021-09-23 14:58:03.556729 | Viewed thermostat readings.

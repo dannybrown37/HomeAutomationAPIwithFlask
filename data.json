@@ -1,0 +1,21 @@
+{
+    "fixtures": {
+        "kitchen": {
+            "status": "off",
+            "installed": "2021-09-23 14:58"
+        },
+        "office": {
+            "status": "off",
+            "installed": "2021-09-23 14:58"
+        },
+        "bedroom": {
+            "status": "on",
+            "installed": "2021-09-23 14:58"
+        }
+    },
+    "thermostat": {
+        "status": "on",
+        "current_temp": 75,
+        "temp_setting": 71
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "fixtures": {},
+    "thermostat": {
+        "status": "off",
+        "current_temp": 75,
+        "temp_setting": 73
+    }
+}
